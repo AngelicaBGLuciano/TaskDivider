@@ -1,7 +1,6 @@
 # Divisor de Tarefas
 
 Distribua tarefas entre a sua equipe de forma equilibrada, direto do navegador.
-Feito em **Java puro**: sem frameworks, sem Maven, sem dependências. Só o JDK.
 
 ## Funcionalidades
 
